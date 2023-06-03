@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_homeFragment_to_detailFragment" type="id" />
+    <item name="action_homeFragment_to_updateFragment" type="id" />
+    <item name="action_homeFragment_to_tambahDataFragment" type="id" />
+</resources>
